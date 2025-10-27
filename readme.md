@@ -31,3 +31,7 @@ mvn clean package
 ### 3. Запуск проекта
 ```bash
 java -jar target/comfort-soft-task-0.0.1-SNAPSHOT.jar
+```
+### После запуска откройте в браузере:
+
+<http://localhost:8080/swagger-ui.html>
